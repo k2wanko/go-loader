@@ -1,0 +1,8 @@
+{
+  "name": "go-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/k2wanko/go-loader.git",
+  "author": "Kazuhiro Kubota <k2.wanko@gmail.com>",
+  "license": "MIT"
+}
