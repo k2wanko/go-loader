@@ -1,8 +1,14 @@
 {
   "name": "go-loader",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "repository": "https://github.com/k2wanko/go-loader.git",
   "author": "Kazuhiro Kubota <k2.wanko@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "gopherjs build -o index.js"
+  }
 }
